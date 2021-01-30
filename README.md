@@ -12,6 +12,11 @@ Caitesy
 Erwin
 Frank
 Tony
+# 操作方式
+W-方塊轉向
+A-向左移動
+S-向右移動
+D-向下加速
 
 
 
